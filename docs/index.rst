@@ -19,8 +19,6 @@ Before you begin setting up Wi-Fi on your HP printer, gather the following:
 - The HP Smart app installed on your device
 - Your printer's IP address (helpful for manual connection)
 
-.. note::
-   Most HP printers support 2.4 GHz Wi-Fi networks. If your router uses dual-band, ensure you are connecting to the 2.4 GHz network. Some newer models may also support 5 GHz.
 
 Method 1: Using the HP Smart App (Recommended)
 ==============================================
